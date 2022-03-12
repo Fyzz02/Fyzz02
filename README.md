@@ -20,9 +20,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+Soy un Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de Argentina.
+- :telescope: Estoy en proceso de egresarme del bootcamp Henry, trabajando en equipo para un proyecto final.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Me gusta aprender tecnologias nuevas.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padularrosa-franco-fullstack)
+- :mailbox: Contacto: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padularrosa-franco-fullstack)
