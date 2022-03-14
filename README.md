@@ -9,7 +9,7 @@
 </div>
 
 <h1>
-  Hey there
+  Hola!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -19,7 +19,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: Sobre mí :
 Soy un Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de Argentina.
 - :telescope: Estoy en proceso de egresarme del bootcamp Henry, trabajando en equipo para un proyecto final.
 
@@ -29,7 +29,7 @@ Soy un Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Lenguajes y herramientas :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -51,5 +51,5 @@ Soy un Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### :fire: My Stats :
+### :fire: Mis estadisticas :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fyzz02&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
