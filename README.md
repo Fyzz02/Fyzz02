@@ -14,10 +14,10 @@
 ---
 
 ### :woman_technologist: Sobre mí :
-Soy un Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de Argentina.
-- :telescope: Estoy en proceso de egresarme del bootcamp Henry, trabajando en equipo para un proyecto final.
+Soy un Full Stack Web Developer, estudiante de Henry Bootcamp, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de Argentina.
+- :telescope: Estoy en proceso de egresarme del bootcamp, trabajando en equipo para un proyecto final.
 
-- :seedling: Me gusta aprender tecnologias nuevas.
+- :seedling: Me gusta estar en constante evolución, aprender tecnologias nuevas.
 
 - :mailbox: Contacto: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padularrosa-franco-fullstack)
 
