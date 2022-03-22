@@ -19,8 +19,6 @@ Soy un Full Stack Web Developer, estudiante de Henry Bootcamp, <img src="https:/
 
 - :seedling: Me gusta estar en constante evolución, aprender tecnologias nuevas.
 
-- :mailbox: Contacto: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padularrosa-franco-fullstack)
-
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
