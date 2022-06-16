@@ -34,6 +34,7 @@ Soy un Full Stack Web Developer egresado de Henry Bootcamp, muy curioso, con muc
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   En práctica:
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="Typescript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>
 </div>
 
 <div>
@@ -41,6 +42,9 @@ Soy un Full Stack Web Developer egresado de Henry Bootcamp, muy curioso, con muc
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' title='MongoDB' alt='Mongo' width='40' height="40"/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg' title='Trello' alt='Trello' width='40' height="40"/>
+   <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' title='VSCode' alt='VSCode' width='40' height="40"/>
 </div>
 
 <div>
@@ -53,7 +57,6 @@ Soy un Full Stack Web Developer egresado de Henry Bootcamp, muy curioso, con muc
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg' title='Tailwind Css' alt='Tailwind' width='40' height="40"/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' title='MongoDB' alt='Mongo' width='40' height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg' title='NextJS' alt='Nextjs' width='40' height="40"/>
 </div>
 
