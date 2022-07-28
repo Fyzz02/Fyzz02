@@ -17,7 +17,7 @@
 Soy un Full Stack Web Developer egresado de Henry Bootcamp, muy curioso, con muchas ganas de trabajar y aportar valor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de Argentina.
 - :telescope: Actualmente en busqueda laboral activa como desarrollador
 
-- :seedling: Me gusta estar en constante evolución, soy un apasionado en aprender, me encantan los desafios y trabajar con gente increible e amigable.
+- :seedling: Me gusta estar en constante evolución, soy un apasionado en aprender, me encantan los desafios y trabajar con gente buena onda.
 
 ---
 
