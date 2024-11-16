@@ -40,11 +40,7 @@ Soy un Full Stack Web Developer egresado de Henry Bootcamp, muy curioso, con muc
    <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' title='VSCode' alt='VSCode' width='40' height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="selenium" width="40" height="40"/>
-  <div>
-    <h4>No relationals</h2>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' title='MongoDB' alt='Mongo' width='40' height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-   </div>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' title='MongoDB' alt='Mongo' width='40' height="40"/>
 </div>
 
 <div>
